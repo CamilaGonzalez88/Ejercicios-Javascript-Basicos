@@ -64,10 +64,10 @@ let datoedad= 17;
 let tienePermiso = true;
 console.log(edad >=18 && tienePermiso);
 
-console.log("#ejercicio 11");
-let usuario = "admin";
-let password = "1234";
-console.log("USUARIO es",usuario,"Y password es",password);
+    <console.log("#ejercicio 11");
+    let usuario = "admin";
+    let password = "1234";
+    console.log("USUARIO es",usuario,"Y password es",password);>
 
 
 
